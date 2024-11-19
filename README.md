@@ -9,4 +9,6 @@ Password Display: Generated passwords are shown in a text box, ready for copy-pa
 
 Requirements
 To run this application, you need Python installed on your machine along with the Tkinter library. Tkinter comes pre-installed with Python, but in case it's missing, you can install it manually.
+
+
 ![Screenshot 2024-11-19 174647](https://github.com/user-attachments/assets/19a25fd0-02a5-45cf-8ee0-8d4f11878823)
